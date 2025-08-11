@@ -17,5 +17,5 @@ Host a simple static website for free using GitHub Pages.
 5. Enabled GitHub Pages in repository settings
 6. Waited a few minutes for deployment.
 
-Accessed the live site at: 
+Accessed the live site at: https://omkar0-0.github.io/
 
